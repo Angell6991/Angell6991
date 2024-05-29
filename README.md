@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,redhat,powershell,neovim,python,latex,git,github" />
+    <img src="https://skillicons.dev/icons?i=linux,redhat,neovim,python,latex,git,github" />
   </a>
 </p>
 
